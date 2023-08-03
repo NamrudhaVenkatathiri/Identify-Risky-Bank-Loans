@@ -1,3 +1,4 @@
 # Identify-Risky-Bank-Loans
 Nowadays, banks are tightening their loan systems and using machine learning models to identify risky loans more accurately. Decision trees are highly used in the banking industry due to their high accuracy and can be approached using C5.0 decision trees. They are some major factors taken into consideration for granting loans and executives must be able to explain why one applicant was rejected for a loan while others were approved. However, this can also be useful for customers hoping to determine why their credit rating is unsatisfactory. In this project, we will develop a simple credit approval model using C5.0 decision trees. We will also see how the results of the model can be tuned to minimize errors.
+
 https://medium.com/@namrudhavenkat.sv/identify-risky-bank-loans-45c58c1971a1
